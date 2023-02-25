@@ -2,14 +2,14 @@
 seeds = false
 skip-lint = false
 [programs.devnet]
-maybe = "G5AEKXqvkk7VumHSkGu8VKjiArx9ikC21j6irhoetFE3"
+maybe = "FJJZ9aYYPEfKP4dKvDufAG98o8BdEacPJqh4YmGkxQv2"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
 cluster = "Devnet"
-wallet = "/home/derek/.config/solana/id.json"
+wallet = "/home/salvador/.config/solana/id.json"
 
 [scripts]
 test = "node tests/maybe.js"
