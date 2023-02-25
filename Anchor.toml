@@ -7,6 +7,8 @@ maybe = "FJJZ9aYYPEfKP4dKvDufAG98o8BdEacPJqh4YmGkxQv2"
 [registry]
 url = "https://api.apr.dev"
 
+[Hola]
+
 [provider]
 cluster = "Devnet"
 wallet = "/home/salvador/.config/solana/id.json"
